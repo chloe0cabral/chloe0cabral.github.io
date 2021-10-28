@@ -1,0 +1,32 @@
+#results {
+    display:none;
+  }
+
+html {
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("plantBackground.jpeg")
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-width: 50px;
+  border-radius: 60px;
+  color: white;
+}
+
+body {
+  margin: 50px;
+  width: 600px;
+  border-width: 8px;
+  padding: 50px;
+  border-radius: 85px;
+  border-style: solid;
+  background-color: rgb(125, 170, 125)
+}
+
+center {
+  text-align: center;
+}
+
